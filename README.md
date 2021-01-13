@@ -1,4 +1,4 @@
-# Jypter notebook on Docker
+# Jupyter notebook on Docker
 
 ## 前提条件
 
